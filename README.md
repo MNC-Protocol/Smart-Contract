@@ -1,4 +1,4 @@
-# <img src="logo/mnc.png" alt="MNC" width="100px">
+# <img src="logo/MNC.png" alt="MNC" width="100px">
 
 Token BEP20 utility to be distributed among all over the world.
 
