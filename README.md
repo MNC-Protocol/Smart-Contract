@@ -17,9 +17,8 @@ The Media Nusantara Cuan Token created in order to be distributed to all over th
 - You can acquire MNC tokens on Our Exchange or Pancake Swap.
 
 Questions or Suggestions?
-
 Get in touch and let's talk.
 
-[support@mnctoken.com](mailto:support@mnctoken.com?subject=Mail from Our Site)
+support@mnctoken.com
 
 
