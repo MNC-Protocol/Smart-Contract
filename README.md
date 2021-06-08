@@ -20,3 +20,6 @@ Questions or Suggestions?
 
 Get in touch and let's talk.
 
+[support@mnctoken.com](mailto:support@mnctoken.com?subject=Mail from Our Site)
+
+
